@@ -12,7 +12,7 @@ Pyng is an app that will allow friends to pay each other quickly and seamlessly 
 After sharing my story with Pyng they gave me a challenge - could I recreate their high-fi landing page wireframe using a tool I hadn't encoutered yet - React Native?
 
 24 hours later - held up a little by an unwell daughter being off school, and working with expo go on a nearly-ancient smartphone - I was able to present the finished landing page.
-<img src="https://github.com/CoderMrB/Pyng-UI-challenge/blob/main/assets/AppScreenshot.png" width="80%" height="80%" />
+<img src="https://github.com/CoderMrB/Pyng-UI-challenge/blob/main/assets/AppScreenshot.png" width="60%" height="60%" />
 
 
 
