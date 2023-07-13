@@ -1,5 +1,5 @@
 # Pyng-UI-challenge
-<em>A challenge from a fintech startup to recreate a high-fi wireframe!<em>
+<em>A challenge from a fintech startup to recreate a high-fi wireframe!</em>
 
 Could I recreate their high-fi landing page wireframe using a tool I hadn't encoutered yet - React Native?
 
