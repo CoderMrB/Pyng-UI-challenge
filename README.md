@@ -7,7 +7,7 @@ Could I recreate their high-fi landing page wireframe using a tool I hadn't enco
 
 The image on the left shows the figma wireframe, and the image on the right is the implentation in react native running on an LG smartphone.
 
-<div style="display:flex; align-content:center">
+<div style=display:flex align="center">
 <img src="https://github.com/CoderMrB/Pyng-UI-challenge/blob/main/assets/wireframe.png" width="30%" height="30%" alt="image of original wireframe"/>
 <img src="https://github.com/CoderMrB/Pyng-UI-challenge/blob/main/assets/AppScreenshot.png" width="30%" height="30%" alt="image of UI designed in react native running on LG"/>
 </div>
